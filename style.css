@@ -1,0 +1,71 @@
+.first{
+	background-color: blue;
+	height: 70px;
+	padding: 3px;
+	text-align: center;
+}
+#two{
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-weight: bold;
+}
+#one{
+	padding: 10px;
+	color: white;
+	letter-spacing: 5px;
+
+	
+
+}
+#three{
+	padding: 3px;
+}
+#center{
+
+	padding-top: 40px;
+}
+#four{
+	background-color: blue;
+	color: white;
+}
+h1{
+	text-align: center;
+}
+#five{
+	text-align: center;
+}
+
+#six{
+	background-color: blue;
+	color: white;
+	text-align: center;
+	padding: 100px;
+	font-size: large;
+	word-spacing: 10px;
+	align-items: center;
+	justify-content: center;
+
+
+}
+#main{
+	display: grid;
+	grid-template-rows: 300px 300px;
+	grid-template-columns: repeat(3,350px);
+	padding: 60px;
+	grid-gap: 10px;
+	width: 90%;
+}
+
+.nine{
+	padding: 10px;
+	margin: 5px;
+	display: block;
+	justify-content: space-between;
+}
+	
+#last{
+	padding: 0;
+	margin: 0;
+
+}
